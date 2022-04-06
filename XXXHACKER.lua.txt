@@ -1,4 +1,2 @@
 setclipboard("https://discord.gg/KvVGVv6QPW")
 game.Players.LocalPlayer:Kick("สคริปต์หมดอายุ : Auto Copy Link Discord Join Discord SOME X HUB https://discord.gg/wGDgrfNBmj")
-
-loadstring(game:HttpGet('https://raw.githubusercontent.com/kickTh/sdj/main/Ehsj'))()
